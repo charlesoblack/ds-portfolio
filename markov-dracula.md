@@ -1,8 +1,8 @@
-# Markov Model for Dracula
+# Markov Model for *Dracula*
 
 ## Summary
 
-I created a Markov model for the sentences in the first few chapters of Dracula, by Bram Stoker. It generates sample sentences that have the same vocabulary as the novel. The entire codebase can be found [here](https://github.com/charlesoblack/markov-sample).
+I created a Markov model for the sentences in the first few chapters of *Dracula*, by Bram Stoker. It generates sample sentences that have the same vocabulary as the novel. The entire codebase can be found [here](https://github.com/charlesoblack/markov-sample).
 
 ## Approach
 
