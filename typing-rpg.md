@@ -14,8 +14,24 @@ I still have a lot of ideas for things to add and things to improve in this game
 
 Here are some screenshots of the development process:
 
-
+![screenshot 1](./images/jwr-1.png)
+![screenshot 2](./images/jwr-2.png)
+![screenshot 3](./images/jwr-3.png)
+![screenshot 4](./images/jwr-4.png)
+![screenshot 5](./images/jwr-5.png)
+![screenshot 6](./images/jwr-6.png)
+![screenshot 7](./images/jwr-7.png)
+![screenshot 8](./images/jwr-8.png)
+![screenshot 9](./images/jwr-9.png)
+![screenshot 10](./images/jwr-10.png)
+![screenshot 11](./images/jwr-11.png)
+![screenshot 12](./images/jwr-12.png)
+![screenshot 13](./images/jwr-13.png)
+![screenshot 14](./images/jwr-14.png)
 
 And here are some screenshots of the current state:
 
-
+![screenshot 15](./images/jwr-15.png)
+![screenshot 16](./images/jwr-16.png)
+![screenshot 17](./images/jwr-17.png)
+![screenshot 18](./images/jwr-18.png)
