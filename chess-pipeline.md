@@ -20,6 +20,24 @@ Finally, I set up a few dashboards using [Tableau](https://www.tableau.com/) and
 
 These are a few of the graphs I created using the data I gathered:
 
+![screenshot 1](./images/chess-pipeline-1.jpg)
 
+![screenshot 2](./images/chess-pipeline-2.jpg)
+
+![screenshot 3](./images/chess-pipeline-3.jpg)
+
+![screenshot 4](./images/chess-pipeline-4.jpg)
+
+![screenshot 5](./images/chess-pipeline-5.jpg)
+
+![screenshot 6](./images/chess-pipeline-6.jpg)
+
+![screenshot 7](./images/chess-pipeline-7.png)
+
+![screenshot 8](./images/chess-pipeline-8.png)
+
+![screenshot 9](./images/chess-pipeline-9.png)
+
+![screenshot 10](./images/chess-pipeline-10.png)
 
 This project is still a work in progress, but I'm quite satisfied with what I've done so far.
