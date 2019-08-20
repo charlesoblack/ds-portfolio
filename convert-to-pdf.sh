@@ -1,9 +1,11 @@
 #!/bin/bash
 
-portfolio=$( cat *.md )
+cat projects/*.md > portfolio.md
 
-pandoc $portfolio \
+pandoc portfolio.md \
     -o portfolio.pdf \
     -fmarkdown-implicit_figures \
     -V geometry:margin=2cm \
     --css pandoc.css
+
+rm portfolio.md
