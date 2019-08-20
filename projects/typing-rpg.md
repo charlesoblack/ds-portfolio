@@ -1,3 +1,4 @@
+
 # Typing RPG
 
 ## Summary
