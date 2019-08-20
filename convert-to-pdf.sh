@@ -5,6 +5,5 @@ do
     pandoc $i \
         -o ${i%.md}.pdf \
         -fmarkdown-implicit_figures \
-        -V geometry:margin=2cm \
-        -f gfm
+        -V geometry:margin=2cm
 done
